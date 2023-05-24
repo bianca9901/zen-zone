@@ -8,5 +8,29 @@
 
 body {
     font-family: raleway, sans-serif;
-    font-weight: 300;
+}
+
+.header {
+    background-image: url('');
+}
+
+h1 {
+    font-family: bebas neue, sans-serif;
+    font-size: 70px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    color: #95E49C;
+
+}
+
+ul {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #95E49C;
+}
+
+#logo {
+    display: flex;
 }

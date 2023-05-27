@@ -34,3 +34,8 @@ ul {
 #logo {
     display: flex;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}

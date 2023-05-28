@@ -10,10 +10,6 @@
 
 body {
     width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     font-family: raleway, sans-serif;
     background-color: rgba(255, 255, 255, 0.846)
 }
@@ -22,7 +18,9 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
     font-family: Bebas Neue;
     color: black;
     text-transform: uppercase;
@@ -36,8 +34,22 @@ h2 {
     padding: 20px;
 }
 
-h3 {
+#p-about-us {
     font-size: 30px;
+}
+
+h3 {
+    font-size: 40px;
+    padding: 20px;
+}
+
+
+
+h4,
+h5 {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
 }
 
 p {
@@ -67,7 +79,7 @@ header {
 }
 
 ul,
-li {
+.nav-text {
     padding: 30px;
     font-size: 30px;
     list-style-type: none;
@@ -97,6 +109,7 @@ li a:hover {
 
 .class-options {
     line-height: 40px;
+    margin-bottom: 100px;
 
 }
 
@@ -129,7 +142,6 @@ li a:hover {
     height: 400px;
     overflow: hidden;
     border-radius: 5px;
-
 }
 
 .card2 {
@@ -141,7 +153,7 @@ li a:hover {
     width: 20%;
     height: 400px;
     overflow: hidden;
-    border-radius:5px;
+    border-radius: 5px;
 
 }
 
@@ -156,30 +168,35 @@ li a:hover {
     overflow: hidden;
     border-radius: 5px;
 
+
+}
+
+.timetable {
+    border-style: solid;
+    border-width: 3px;
+    margin: 20px;
+    flex-direction: row;
+    justify-content: center;
+    line-height: 40px;
+    overflow: hidden;
+    border-radius: 5px;
+    height: 500px;
+
+
 }
 
 
-
-
-.container {
-    padding: 30px;
-
-
-}
 
 footer {
     display: flex;
     justify-content: center;
-    align-content: space-around;
     align-items: center;
     flex-direction: row;
-
-    left: 0;
-    bottom: 0;
     width: 100%;
     height: 100px;
     background-color: black;
     color: white;
+    padding: 0;
 }
 
 LÄGG IN SEN position: fixed;

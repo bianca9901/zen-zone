@@ -107,6 +107,65 @@ li a:hover {
 
 
 /* Membership option section */
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+
+.cards :not(h3) {
+    opacity: 0.4;
+}
+
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-image: url('../images/yoga-card.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 5px;
+
+}
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-image: url('../images/yoga-card-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 400px;
+    overflow: hidden;
+    border-radius:5px;
+
+}
+
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-image: url('../images/yoga-card-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 20%;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 5px;
+
+}
+
+
+
+
+.container {
+    padding: 30px;
+
+
+}
 
 footer {
     display: flex;
@@ -114,7 +173,7 @@ footer {
     align-content: space-around;
     align-items: center;
     flex-direction: row;
-    position: fixed;
+
     left: 0;
     bottom: 0;
     width: 100%;
@@ -122,3 +181,5 @@ footer {
     background-color: black;
     color: white;
 }
+
+LÄGG IN SEN position: fixed;

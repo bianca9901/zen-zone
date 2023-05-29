@@ -25,9 +25,9 @@
             <nav>
                 <ul>
                     <li class="nav-text"><a href="index.html" area-label="go to top of the page">Home</a></li>
-                    <li class="nav-text"><a href="#" area-label="go to schedule section">Schedule</a></li>
-                    <li class="nav-text"><a href="#" area-label="go to membership section">Membership</a></li>
-                    <li class="nav-text"><a href="#" area-label="go to contact section">Contact</a></li>
+                    <li class="nav-text"><a href="#schedule" area-label="go to schedule section">Schedule</a></li>
+                    <li class="nav-text"><a href="#membership" area-label="go to membership section">Membership</a></li>
+                    <li class="nav-text"><a href="mailto:zenzone@example.com" area-label="Email Us">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -38,8 +38,8 @@
     <main>
         <section>
             <div class="about-us">
-                <h2>About Us</h2>
-                <p id="p-about-us">At our yoga studio located in Seminyak, Bali our mission is to fill you up
+                <h2 class="opacity" >About Us</h2>
+                <p id="p-about-us" class="opacity">At our yoga studio located in Seminyak, Bali our mission is to fill you up
                     with
                     positive energy.
                     We provide daily yoga classes and spiritual wellness meditations with top instructors.
@@ -52,9 +52,8 @@
     </main>
 
     <section>
-
         <div class="class-options">
-            <h3>Our Classes</h3>
+            <h3 class="headline">Our Classes</h3>
             <div class="class-1">
                 <h3>Yin yoga</h3>
                 <p>
@@ -107,11 +106,11 @@
         </div>
 
 
-        <section>
+        <section id="schedule">
 
-            <h4>Schedule of the week</h4>
+            <h4 class="headline">Schedule of the week</h4>
 
-            <div class="schedule">
+            <div>
                 <div class="timetable">
                     <ul>
                         <h4>Monday</h4>
@@ -201,35 +200,36 @@
 
 
 
-        <section>
+        <section id="membership">
 
-            <h5>Become a Member</h5>
+            <h5  class="headline">Become a Member</h5>
 
             <div class="cards">
 
                 <div class="card1">
                     <div class="container">
-                        <h5>Single Class: 18€</h5>
-                        <p>(valid for 1 class)</p>
+                        <h5 class="opacity">Single Class: 18€</h5>
+                        <p class="opacity">(valid for 1 class. 1 year expiry from purshase)</p>
+                        <button class="button" type="button" class="opacity">Choose</button>
                     </div>
                 </div>
 
                 <div class="card2">
                     <div class="container">
-                        <h5>Unlimited membership: 70€</h5>
-                        <p>(cancel anytime with 3 weeks notice)</p>
+                        <h5 class="opacity">Unlimited: 70€</h5>
+                        <p class="opacity">(cancel anytime with 3 weeks notice)</p>
+                        <button class="button" type="button" class="opacity">Choose</button>
                     </div>
                 </div>
 
                 <div class="card3">
                     <div class="container">
-                        <h5>5 Class Card 45€:</h5>
-                        <p>(valid for 5 classes. 1 year expiry from first use)</p>
+                        <h5 class="opacity">5 Class Card 45€:</h5>
+                        <p class="opacity">(valid for 5 classes. 1 year expiry from first use)</p>
+                        <button class="button" type="button" class="opacity">Choose</button>
                     </div>
                 </div>
             </div>
-
-            <p id="pay">Pay in studio</p>
         </section>
 
     </section>

@@ -103,7 +103,6 @@ a {
 }
 
 .socialmedia,
-.button,
 li a:hover {
     color: green;
 }
@@ -264,6 +263,14 @@ li a:hover {
 .send-button:hover {
     background-color: #fafafa;
     color: green;
+}
+
+/*form response text*/
+#form-response {
+    text-align: center;
+    height: 400px;
+    font-size: 40px;
+    margin-top: 30px;
 }
 
 /* footer */

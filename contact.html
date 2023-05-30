@@ -24,30 +24,28 @@
                     <li class="nav-text"><a href="index.html" area-label="go to home page">Home</a></li>
                     <li class="nav-text"><a href="#schedule" area-label="go to schedule section">Schedule</a></li>
                     <li class="nav-text"><a href="#membership" area-label="go to membership section">Membership</a></li>
-                    <li class="nav-text" class="active"><a href="signup.html" area-label="Contact us">Contact</a></li>
+                    <li class="nav-text" class="active"><a href="contact.html" area-label="contact us">Contact</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <!--About us section-->
-    <main>
-        <section>
-            <div class="about-us">
-                <h2 class="opacity">About Us</h2>
-                <p id="p-about-us" class="opacity">At our yoga studio located in Seminyak, Bali our mission is to fill
-                    you up
-                    with
-                    positive energy.
-                    We provide daily yoga classes and spiritual wellness meditations with top instructors.
-                    Welcome
-                    to
-                    your Zen Zone.
-                </p>
-            </div>
-        </section>
-    </main>
+    <!--Form section-->
+    <section class="form-section">
+        <form method="POST" action="WHAT" class="contact-form">
+            <h2>Write your information and we will contact you!</h2>
+            <label for="fname">First Name</label>
+            <input class="text-input" id="fname" name="first_name" type="text" required>
 
+            <label for="lname">Last Name</label>
+            <input class="text-input" id="lname" name="last_name" type="text" required>
+
+            <label for="email">Email Address</label>
+            <input class="text-input" type="email" id="email" name="email_address" required>
+
+            <input class="send-button" type="submit" value="Send">
+        </form>
+    </section>
 
 
     <!--Footer-->

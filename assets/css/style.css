@@ -1,4 +1,9 @@
+/*global settings*/
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@300&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
 
 *,
 *::before,
@@ -9,13 +14,18 @@
 }
 
 body {
-    z width: 100%;
+    width: 100%;
     font-family: raleway, sans-serif;
     background-color: rgba(255, 255, 255, 0.846)
 }
 
-/* Headings and logo */
+/*Settings for all sections starting from "description of the classes section" until "footer"*/
+.style-for-all {
+    margin: 2em auto;
+    font-size: 20px;
+}
 
+/* Headings and logo */
 h1,
 h2,
 h3,
@@ -87,12 +97,6 @@ ul {
     overflow: hidden;
 }
 
-.style-for-all {
-    margin: 2em auto;
-    font-size: 20px;
-}
-
-
 a {
     color: white;
     text-decoration: none;
@@ -104,7 +108,7 @@ li a:hover {
     color: green;
 }
 
-.headline {
+.headlines {
     font-size: 40px;
     background-color: black;
     color: white;
@@ -131,24 +135,31 @@ li a:hover {
 .class-2,
 .class-3,
 .class-4 {
-    background-color: aqua;
-    box-shadow: 8px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(255, 255, 255);
     padding: 2em;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
 }
 
 /* Schedule section */
 .timetable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-style: solid;
     border-width: 3px;
-    margin: 20px;
-    margin-bottom: 100px;
     flex-direction: row;
-    justify-content: center;
     line-height: 40px;
     overflow: hidden;
     border-radius: 5px;
-    height: 500px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    padding: 2em;
+    width: 100%;
+    max-width: 120rem;
+    -webkit-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
+    -moz-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
+    box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
 }
 
 /* Membership option section */
@@ -215,8 +226,19 @@ footer {
     padding: 1em;
 }
 
-@media screen and (max-width:800px) {
 
+/*For small screens*/
+@media screen and (max-width:800px) {
+    .nav-text {
+        padding: 2em;
+    }
+    #navigation {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding: 1em;
+    }
     .card1,
     .card2,
     .card3,
@@ -225,43 +247,22 @@ footer {
         align-items: center;
         width: 100%;
         margin-bottom: 20px;
+        margin:auto;
     }
-
     .about-us {
         height: auto;
         padding: 0;
     }
-
-    .headline {
-        padding: 0;
-    }
-
-    #logo {
-        display: flex;
-        align-items: center;
-        text-align: center;
-        margin: 0;
-    }
-
-    .nav-text {
-        padding: 2em;
-    }
-
-
-    #navigation {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    .headlines {
         margin: auto;
         padding: 1em;
     }
-
-    .style-for-all {
-        margin: auto;
-        padding: 1em;
+    #schedule {
+        margin-bottom: 100px;
     }
 }
 
+/*For bigger screens*/
 @media screen and (min-width:800px) {
     .nav-text {
         padding: 30px;
@@ -269,13 +270,5 @@ footer {
         display: inline;
         text-align: center;
         list-style-type: none;
-    }
-
-    #logo {
-        display: flex;
-        align-content: center;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
     }
 }

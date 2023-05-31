@@ -149,6 +149,14 @@ li a:hover {
 }
 
 /* Schedule section */
+#schedule {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .timetable {
     display: flex;
     justify-content: center;

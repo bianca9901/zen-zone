@@ -127,6 +127,7 @@ The website has a simplistic modern feel with the main colors black and white. A
 
 
 
+
 The logo, navigationbar and footer was set to all pages with no change. In the content in between I kept a similar theme although the different sections and the two pages has a slightly different look. The purpose of this was for the visitor to acknowledge the different sections. This decision was made because a website with a lot of text can be overwhelming and therefore I wanted to make sure the sections did not melt into each other.
 
 ### Typogrophy 

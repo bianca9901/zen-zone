@@ -150,16 +150,17 @@ I used [Balsamiq Wireframes] (https://balsamiq.com/wireframes/) to make a mockup
 ## Validator testing
 ### HTML
 #### Homepage 
- "Document checking completed. No errors or warnings to show."
+![Home page Html checker](documentation/homepage-html-checker.png)
 
 #### Contact-us page
-"Document checking completed. No errors or warnings to show."
+![Contact page Html checker](documentation/contact-html-checker.png)
 
 #### Response page
-"Document checking completed. No errors or warnings to show."
+![Response Html checker](documentation/response-html-checker.png)
 
 ### CSS
 ''Congratulations! No Error Found.''
+![Css error checker](documentation/css-checker.png)
 
 #### No errors were returned when passing through the official [W3C validator](https://validator.w3.org/) for the html. No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/validator.html.en) validator for css.
 

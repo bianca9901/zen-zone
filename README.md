@@ -196,7 +196,7 @@ I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to g
 ## Bugs
 
 ### Solved bugs
-I had a bug with the footer but got it fixed with the help of [This link](https://materializecss.com/footer.html)
+There was a bug with the position of the footer in the contact page, it was fixed with the help of [This link](https://materializecss.com/footer.html)
 
 
 ### Unsolved bugs

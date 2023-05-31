@@ -8,6 +8,8 @@ Zen Zone is a yoga and wellness studio. On this site, we present all the necessa
 
 The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
+![Different screens](documentation/different-screen-devices.png)
+
 ---
 
 ## User Stories
@@ -51,7 +53,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ### Navigationbar
 * Features on both pages. With the content ‘’Home’’ ‘’Schedule’’ ‘’Membership’’ and ‘’Contact. 
 * This makes it easy for the visitor to go to the relevant section and/or page.
-* The navigation bar is responsive for all screen widths which secures a good user experience.
+* When the visitor clicks on the buttons that leads to a section within the page, the scroll behaves smoothly which is good user experience.
 ![Navigation](documentation/navigation.png)
 
 ### Landing page
@@ -83,7 +85,8 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
 
 ### Response page 
-* Ensures the visitor that their request to get in contact has succeeded.
+* Ensures the visitor with a message, that their request to get in contact has succeeded.
+* It will automatically direct the user to the main page in 10 seconds.
 ![Response page](documentation/response-page.png)
 
 ---

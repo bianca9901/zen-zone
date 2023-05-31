@@ -16,7 +16,14 @@ html {
 body {
     width: 100%;
     font-family: raleway, sans-serif;
-    background-color: rgba(255, 255, 255, 0.846)
+    background-color: rgba(255, 255, 255, 0.846);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1 0 auto;
 }
 
 /*Settings for all sections starting from "description of the classes section" until "footer"*/
@@ -287,7 +294,6 @@ li a:hover {
 /*form response text*/
 #form-response {
     text-align: center;
-    height: 400px;
     font-size: 40px;
     margin-top: 30px;
 }

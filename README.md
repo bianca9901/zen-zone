@@ -102,7 +102,7 @@ was used to host the code on the website.
 
 The website has a simplistic modern feel with the main colors black and white. A few elements are green and those are the button in the contact-us form. and also the social media icons and the menu options, but these are only green while hovering. 
 
-The logo, navigationbar and footer was set to all pages with no change. In the content in between I kept a similar theme although the different sections and the two pages but with a slightly different look. The purpose of this was for the visitor to acknowledge the different sections. This decision was made because a website with a lot of text can be overwhelming and therefore I wanted to make sure the sections did not melt into each other.
+The logo, navigationbar and footer was set to all pages with no change. In the content in between I kept a similar theme although the different sections and the two pages has a slightly different look. The purpose of this was for the visitor to acknowledge the different sections. This decision was made because a website with a lot of text can be overwhelming and therefore I wanted to make sure the sections did not melt into each other.
 
 ### Typogrophy 
 
@@ -133,8 +133,36 @@ I used Google Fonts for all text. For the headlines I used Bebas Neue Regular 40
 
 ### CSS
 
+## Deployment
 
+## Credits
 
+### Content
+The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+To compress my images I used [Tiny Png] (https://tinypng.com)
+
+To make the code for the boxshadow I used [Css Matic] (https://www.cssmatic.com/box-shadow)
+
+To make the scrolls behave more smoothly I used [W3schools] (https://www.w3schools.com/cssref/pr_scroll-behavior.php)
+
+I used information and code about flexbox from [W3schools] (https://www.w3schools.com/css/css3_flexbox.asp)
+
+For the contact form I used the template for Love Running from [Code Institute] (https://codeinstitute.net/)
+
+### Media 
+
+All images from the website was taken from 
+[Pexels] (https://www.pexels.com/sv-se/)
+
+[Hero image] (https://www.pexels.com/sv-se/foto/manniskor-golv-kondition-traning-8436581/)
+
+[Membership cards images]
+[Img 1] (https://www.pexels.com/photo/people-meditating-in-a-yoga-class-8436691/
+
+[Img 2] (https://www.pexels.com/photo/women-meditating-in-a-yoga-class-8436728/)
+
+[Img 3] (https://www.pexels.com/id-id/foto/orang-orang-kebugaran-latihan-gaya-hidup-8436640/)
 
 
 

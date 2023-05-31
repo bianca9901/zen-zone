@@ -203,7 +203,7 @@ I had a bug with the footer but got it fixed with the help of [This link](https:
 None
 
 ### Mistakes
-In the beggining of the project I commited messengers that were
+In the beggining of the project I commited messengers that
 did not have an uppercase letter and they were also too long. When I realized this mistake I started writing properly.
 
 --- 
@@ -216,10 +216,7 @@ From the source section drop-down menu, select the Master Branch
 
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-cd ~/Desktop     -  redirect you to your desktop
-cd ciprojects     - redirect you to your folder with the projects
-git clone https://github.com/bianca9901/zen-zone.git     - clone your repository
-open -a "Visual Studio Code" zen-zone     - open your project in vs code
+ADD DEPLOY PROCESS LOCAL
 
 ---
 

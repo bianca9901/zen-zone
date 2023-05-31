@@ -316,7 +316,18 @@ footer {
         align-items: center;
         width: 100%;
         margin-bottom: 20px;
-        margin: auto;
+        margin: 1em;
+    }
+
+    .class-1,
+    .class-2,
+    .class-3,
+    .class-4 {
+        padding: 1em;
+    }
+
+    .timetable {
+        padding: 0em;
     }
 
     .about-us {

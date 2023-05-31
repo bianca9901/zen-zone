@@ -76,7 +76,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ![Footer](documentation/the-footer.png)
 
 
-### Contact-us page 
+### Contact page 
 
 * Has a form where a ‘’personal instructor’’ will reach out and talk more in-depth about the questions the visitor may have. The user will have to put in first name, last name, and email and push send.
 ![Contact-us page](documentation/contact-us-page.png)

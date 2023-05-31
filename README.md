@@ -1,6 +1,6 @@
 # Zen Zone
 
-![picture](images)
+![Logo](documentation/logo-zen-zone.png)
 
 ## About
 
@@ -16,33 +16,33 @@ The site can be accessed by this [link](https://github.com/bianca9901/zen-zone.g
 ### First Time Visitor Goals:
 
 * As a first time visitor my goal is to find out what this yoga studio is about so that I can learn more.
-(who) Website is organized in a way that first time visitors directly can see a description of who we are.
+*(who) Website is organized in a way that first time visitors directly can see a description of who we are.*
 
 * As a first time visitor my goal is to find out where the yoga studio is located so that I can find the place.
-(where) First time visitors should be able to find our location immediately since this is a local yoga studio. Therefore the location is provided in the header.
+*(where) First time visitors should be able to find our location immediately since this is a local yoga studio. Therefore the location is provided in the header.*
 
 * As a first time visitor my goal is to find out what classes are provided so that I can decide if it suits my needs.
-(what) First time visitors would want to know what classes we have in the studio. Therefore this information is provided directly after the header.
+*(what) First time visitors would want to know what classes we have in the studio. Therefore this information is provided directly after the header.*
 
 ### Returning Visitor Goals:
 
 * As a returning  visitor my goal is to contact the studio so that I can ask further questions.
-(contact) First time visitors may have further questions, therefore the contact information in the navigation bar.
+*(contact) First time visitors may have further questions, therefore the contact information in the navigation bar.*
 
 * As a returning visitor my goal is to see the schedule so that I can book a class.
-(when) A visitor that returns to the site may want to see the schedule for the classes. Therefore it has a link provided in the navigation so that the visitor easily can find the schedule of the week. 
+*(when) A visitor that returns to the site may want to see the schedule for the classes. Therefore it has a link provided in the navigation so that the visitor easily can find the schedule of the week.* 
 
 * As a returning visitor my goal is to find the studios social media, so that I can follow and interact with them.
-(interaction) A visitor that returns may want to follow and interact with us on social media to see more. 
+*(interaction) A visitor that returns may want to follow and interact with us on social media to see more.*
 
 ### Frequent Visitor Goals:
 
 
 * As a frequent visitor my goal is to see this week’s schedule, so that I can book a class.
-(When) A frequent visitor may want to see the schedule for the week to book their spot.
+*(When) A frequent visitor may want to see the schedule for the week to book their spot.*
 
 * As a frequent visitor my goal is to learn more about the memberships so that I can get a better deal.
-(Prices) Frequent visitors may be interested in getting a membership and potentially purchase.
+*(Prices) Frequent visitors may be interested in getting a membership and potentially purchase.*
 
 ## Existing features
 
@@ -50,28 +50,42 @@ The site can be accessed by this [link](https://github.com/bianca9901/zen-zone.g
 * Features on both pages. With the content ‘’Home’’ ‘’Schedule’’ ‘’Membership’’ and ‘’Contact. 
 * This makes it easy for the visitor to go to the relevant section and/or page.
 * The navigation bar is responsive for all screen-widths which secure a good user experience.
+![Logo](documentation/logo-zen-zone.png)
 ---
 ### Landing page
 * The landing page image: The image gives a feel of our yoga studio and the text gives the visitor an impression of who and where we are.
 * The intention with the text selected for the landing page is to intrigue the visitor to want to learn more. The intent with the image selected is to give a sense of tranquilness which matches the core of the company and the goal of the visitor wanting to take a class in yoga and wellness. 
+![Landing page](documentation/landing-page.png)
 ---
 ### Class selection section
 * This section is meant to describe the different classes so that the visitor can know our selections.  The information should spark interest to the visitors and make them know what class they want to take.
+![Class selection section](documentation/class-selection-section.png)
 ---
+###  Schedule section
+* This section shows the visitor the schedule of the week.
+![Schedule section](documentation/schedule-section.png)
+
 ### Membership selection section
 * Is meant to give the visitor information about the different prices and membership plans. It also includes rules for cancelation of membership etc. 
+![Become a member section](documentation/become-a-member-section.png)
 ---
 ### The Footer
 * Has social media icons that when pressed will open up in a new tab. It also has a general email for the studio's receptionists. And lastly it has the location once again since it is important for a local studio.
+
+![Footer](documentation/footer.png)
 ---
 
-### The contact-us page 
+### Contact-us page 
 
-* Has a form where a ‘’personal instructor’’ will reach out and talk more in depth about the questions the visitor may have. The user will have to put in first name, lastname and email and push send. 
+* Has a form where a ‘’personal instructor’’ will reach out and talk more in depth about the questions the visitor may have. The user will have to put in first name, lastname and email and push send.
+![Contact-us page](documentation/contact-us-page.png)
 ---
 
-### The response-page 
+### Response page 
 * Insures the visitor that their request to get in contact has succeeded.
+
+![Response page](documentation/response-page.png)
+---
 
 ## Features Left to Implement
 * A schedule that makes it possible for the visitor to secure their spot in a class.
@@ -106,13 +120,34 @@ The logo, navigationbar and footer was set to all pages with no change. In the c
 
 ### Typogrophy 
 
-I used Google Fonts for all text. For the headlines I used Bebas Neue Regular 400 and for paragraphs I used Raleway light 300.
+I used [Google Fonts] (https://fonts.google.com/)  for all text. For the headlines I used Bebas Neue Regular 400 and for paragraphs I used Raleway light 300.
 
 ### Wireframes
 
-### Desktop
+I used [Balsamiq Wireframes] (https://balsamiq.com/wireframes/) to make a mockup sketch of the layout before starting to code.
+![Wireframe](documentation/balsamiq.png)
 
-## Testing
+(!)
+
+# Testing
+
+
+## Validator testing
+### HTML
+#### Homepage 
+ "Document checking completed. No errors or warnings to show."
+
+#### Contact-us page
+"Document checking completed. No errors or warnings to show."
+
+#### Response page
+"Document checking completed. No errors or warnings to show."
+
+### CSS
+''Congratulations! No Error Found.''
+
+#### No errors were returned when passing through the official (W3C validator) [https://validator.w3.org/] for the html. No errors were found when passing through the official (Jigsaw) [https://jigsaw.w3.org/css-validator/validator.html.en] validator for css.
+
 
 ### Manual testing
 
@@ -122,16 +157,6 @@ I used Google Fonts for all text. For the headlines I used Bebas Neue Regular 40
 
 ##### Unsolved bugs
 
-## Validator testing
-### HTML
-
-#### Home page
-
-#### Contact page
-
-#### Response page
-
-### CSS
 
 ## Deployment
 

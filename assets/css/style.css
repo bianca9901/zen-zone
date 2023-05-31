@@ -31,7 +31,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue";
     color: black;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -145,8 +145,6 @@ li a:hover {
     background-color: rgb(255, 255, 255);
     padding: 2em;
     margin-bottom: 20px;
-    -webkit-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
-    -moz-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
 }
 
@@ -164,8 +162,6 @@ li a:hover {
     padding: 2em;
     width: 100%;
     max-width: 120rem;
-    -webkit-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
-    -moz-box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.49);
 }
 
@@ -257,7 +253,7 @@ li a:hover {
 
 .send-button {
     margin-top: 20px;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
@@ -265,7 +261,6 @@ li a:hover {
     color: #fafafa;
     display: block;
     font-family: raleway, sans-serif;
-    border-radius: 5;
 }
 
 .send-button:hover {

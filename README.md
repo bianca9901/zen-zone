@@ -6,7 +6,7 @@
 
 Zen Zone is a yoga and wellness studio. On this site we present all necessary information about us and the amazing classes we provide. This site will be targeted to anyone in Bali, Seminyak who are looking for a place to find inner wellness.
 
-The site can be accessed by this [link](https://github.com/bianca9901/zen-zone.git)
+The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
 ---
 
@@ -113,8 +113,9 @@ was used to make the wireframe.
 * Github
 was used to host the code on the website.
 * Git
-???
-* Vscode was used to write my code after half the time on this project since codeanywhere stopped working.
+was used for version control.
+* Vscode
+was used to write my code after half the time on this project since codeanywhere stopped working.
 ---
 ## Design
 
@@ -168,11 +169,21 @@ Response page ![Respons page](documentation/response-page-scores.png)
 ### Bugs
 
 ##### Solved bugs
+I had a bug with the footer but got it fixed with help of [This link](https://materializecss.com/footer.html)
+
+
 
 ##### Unsolved bugs
+None
 
 
 ## Deployment
+
+cd ~/Desktop     -  redirect you to your desktop
+cd ciprojects     - redirect you to your folder with the projects
+git clone https://github.com/bianca9901/zen-zone.git     - clone your repository
+open -a "Visual Studio Code" zen-zone     - open your project in vs code
+
 
 ## Credits
 
@@ -188,6 +199,8 @@ To make the scrolls behave more smoothly I used [W3schools](https://www.w3school
 I used information and code about flexbox from [W3schools](https://www.w3schools.com/css/css3_flexbox.asp)
 
 For the contact form I used the template for Love Running from [Code Institute](https://codeinstitute.net/)
+
+For the footer that was bugging I used tips from [Materialize css](https://materializecss.com/footer.html)
 
 ### Media 
 
@@ -205,6 +218,8 @@ Membership cards images
 [Img 3](https://www.pexels.com/id-id/foto/orang-orang-kebugaran-latihan-gaya-hidup-8436640/)
 
 
+
+Mistakes, commiting messengers that are too long and does not have uppercase letter. When I realized this misstake I corrected all commits after.
 
 
 

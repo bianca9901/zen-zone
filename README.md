@@ -74,7 +74,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ### The Footer
 * Has social media icons that when pressed will open up in a new tab. It also has a general email for the studio's receptionists. And lastly it has the location once again since it is important for a local studio.
 
-![Footer](documentation/footer.png)
+![Footer](documentation/the-footer.png)
 
 
 ### Contact-us page 
@@ -121,11 +121,21 @@ was used to write my code after half the time on this project since codeanywhere
 
 The website has a simplistic modern feel with the main colors black and white. A few elements are green and those are the button in the contact-us form. and also the social media icons and the menu options, but these are only green while hovering. 
 
+![Color Black](documentation/color-black.png)
+![Color White](documentation/color-white.png)
+![Color Green](documentation/color-green.png)
+
+
+
 The logo, navigationbar and footer was set to all pages with no change. In the content in between I kept a similar theme although the different sections and the two pages has a slightly different look. The purpose of this was for the visitor to acknowledge the different sections. This decision was made because a website with a lot of text can be overwhelming and therefore I wanted to make sure the sections did not melt into each other.
 
 ### Typogrophy 
 
 I used [Google Fonts](https://fonts.google.com/)  for all text. For the headlines I used Bebas Neue Regular 400 and for paragraphs I used Raleway light 300.
+* Bebas Neue
+![Bebas Neue](documentation/bebas-neue.png)
+* Raleway
+![Raleway](documentation/raleway.png)
 
 ### Wireframes
 
@@ -201,6 +211,9 @@ I used information and code about flexbox from [W3schools](https://www.w3schools
 For the contact form I used the template for Love Running from [Code Institute](https://codeinstitute.net/)
 
 For the footer that was bugging I used tips from [Materialize css](https://materializecss.com/footer.html)
+
+I used this app to demonstrate in this README.md document the screenshots of the colors i picked for the website. 
+[Digital Color Meter](https://support.apple.com/sv-se/guide/digital-color-meter/welcome/mac)
 
 ### Media 
 

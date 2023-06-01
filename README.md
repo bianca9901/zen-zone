@@ -14,7 +14,6 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
 ## User Stories
 
-
 ### **First-Time Visitor Goals:**
 
  **As a first-time visitor my goal is to find out what this yoga studio is about so that I can learn more.**
@@ -38,7 +37,6 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 - (Interaction) A visitor that returns may want to follow and interact with the studio on social media to see more, for this reason icons are presented in footer.
 
 ### **Frequent Visitor Goals:**
-
 
 **As a frequent visitor my goal is to see this week’s schedule so that I can book a class.**
 - (When) A frequent visitor may want to see the studios' schedule for the week to adjust their personal schedule accordingly.
@@ -78,12 +76,10 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 * Has social media icons that when pressed will open up in a new tab. It also has a general email for the studios' receptionists. And lastly, it has the location once again since it is important for a local studio.
 ![Footer](documentation/the-footer.png)
 
-
 ### Contact page 
 
 * Has a form where a ‘’personal instructor’’ will reach out and talk more in-depth about the questions the visitor may have. The user will have to put in first name, last name, and email and push send.
 ![Contact-us page](documentation/contact-us-page.png)
-
 
 ### Response page 
 * Ensures the visitor with a message, that their request to get in contact has succeeded.
@@ -102,6 +98,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 * Add favicon
 
 * Add custom 404 page
+
 ---
 
 ## Technologies used
@@ -122,7 +119,9 @@ was used to host the code on the website.
 was used for version control.
 * [Visual studio code](https://code.visualstudio.com/)
 was used to write my code after half the time on this project since codeanywhere stopped working.
+
 ---
+
 ## Design
 
 * The website has a simplistic modern feel with the main colors black and white. 
@@ -179,8 +178,6 @@ I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to g
 
 * Response page ![Respons page](documentation/response-page-scores.png)
 
-
-
 ### Manual testing
 
 | feature | action | expected result | tested | passed | comments |
@@ -203,11 +200,11 @@ I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to g
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
 ---
+
 ## Bugs
 
 ### Solved bugs
 There was a bug with the position of the footer in the contact page, it was fixed with the help of [This link](https://materializecss.com/footer.html)
-
 
 ### Unsolved bugs
 None.
@@ -217,6 +214,7 @@ In the beggining of the project I commited messengers that
 did not have an uppercase letter and they were also too long. When I realized this mistake I started writing properly.
 
 --- 
+
 ## Deployment
 
 I cloned my ongoing codeanywhere repository that was deployed on GitHub. Meaning I copied the GitHub URL link and used these command’s,
@@ -242,12 +240,13 @@ How to make a local clone of this project.
 2. Open terminal.
 3. Type ```git clone``` and paste the url.
 4. Press enter to create your local clone.
----
 
+---
 
 ## Future improvements
 
 * I did not write my commit messengers correctly in the beggining of the project. However, I fixed my errors when I realized my wrongs. In the future I will improve the overall quality.
+
 ---
 
 ## Credits
@@ -268,7 +267,6 @@ For the contact form, I used the template for Love Running from [Code Institute]
 For the footer that was bugging I used tips from [Materialize css](https://materializecss.com/footer.html)
 
 I used [Digital Color Meter](https://support.apple.com/sv-se/guide/digital-color-meter/welcome/mac) for the screenshot of the colors in my website that I demonstrated in this README.md 
-
 
 ### Media 
 

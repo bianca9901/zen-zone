@@ -265,7 +265,7 @@ To make the scrolls behave more smoothly I used [W3schools](https://www.w3school
 
 I used information and code about flexbox from [W3schools](https://www.w3schools.com/css/css3_flexbox.asp)
 
-For the contact form, I used the template for Love Running from [Code Institute](https://codeinstitute.net/)
+For the contact form, I used the template for Love Running from [Code Institute](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
 
 For the footer that was bugging I used tips from [Materialize css](https://materializecss.com/footer.html)
 

@@ -231,14 +231,23 @@ The site was deployed to GitHub pages.
 * The steps to deploy are as follows:
 
 * In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
+From the source section drop-down menu, select the Main Branch
 
 * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
+## Local deployment
+How to make a local clone of this project.
+
+1. Copy this url https://github.com/bianca9901/zen-zone.git
+2. Open terminal.
+3. Type ```git clone``` and paste the url.
+4. Press enter to create your local clone.
 ---
 
+
 ## Future improvements
-* As mentioned earlier, I did not write my commit messengers correctly in the beggining of the project. However, I will take my time to read about how to write better commit messengers and I will improve them in the future. 
+
+* I did not write my commit messengers correctly in the beggining of the project. However, I fixed my errors when I realized my wrongs. In the future I will improve the overall quality.
 ---
 
 ## Credits

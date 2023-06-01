@@ -54,7 +54,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 * Features on both pages. With the content ‘’Home’’ ‘’Schedule’’ ‘’Membership’’ and ‘’Contact. 
 * This makes it easy for the visitor to go to the relevant section and/or page.
 * When the visitor clicks on the buttons that leads to a section within the page, the scroll behaves smoothly which is good user experience.
-![Navigation](documentation/navigation.png)
+![Navigation](documentation/navbar.png)
 
 ### Landing page
 * The landing page displays the logo, navigation, a text about the studio and an image. This gives the visitor information about who and where we are.
@@ -274,5 +274,10 @@ Membership cards images
 [Img 3](https://www.pexels.com/id-id/foto/orang-orang-kebugaran-latihan-gaya-hidup-8436640/)
 
 ---
+## Acknowledgments
+
+Thank you [Iuliia Konovalova](https://github.com/IuliiaKonovalova), my mentor for all support and motivation you have given me throughout these weeks. I could not have asked for a better person for guidance. 
+
+Thank you my sister Olivia, for helping me write the description of the classes. I appreciate your consideration.
 
 

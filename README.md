@@ -71,11 +71,11 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ![Schedule section](documentation/schedule-of-the-week.png)
 
 ### Membership selection section
-* Is meant to give the visitor information about the different prices and membership plans. It also includes rules for cancelation of membership etc. 
+* This section is meant to give the visitor information about the different prices and membership plans. It also includes rules for cancelation of membership etc. 
 ![Become a member section](documentation/become-a-member-section.png)
 
 ### The Footer
-* Has social media icons that when pressed will open up in a new tab. It also has a general email for the studio's receptionists. And lastly, it has the location once again since it is important for a local studio.
+* Has social media icons that when pressed will open up in a new tab. It also has a general email for the studios' receptionists. And lastly, it has the location once again since it is important for a local studio.
 ![Footer](documentation/the-footer.png)
 
 
@@ -132,7 +132,7 @@ The logo, navigation bar, and footer were set to all pages with no change. In th
 
 ### Typography 
 
-I used [Google Fonts](https://fonts.google.com/)  for all text. For the headlines, I used Bebas Neue Regular 400 and for paragraphs, I used Raleway Light 300.
+I used [Google Fonts](https://fonts.google.com/)  for all text. For the headlines, I used Bebas Neue Regular 400. For paragraphs, I used Raleway Light 300.
 #### Bebas Neue
 ![Bebas Neue](documentation/bebas-neue.png)
 #### Raleway
@@ -148,6 +148,9 @@ I used [Google Fonts](https://fonts.google.com/)  for all text. For the headline
 ## Testing
 
 ### Validator testing
+
+#### No errors were returned when passing through the official [W3C validator](https://validator.w3.org/) for the html. No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/validator.html.en) validator for css.
+
 #### HTML
 * Homepage 
 ![Home page Html checker](documentation/homepage-html-checker.png)
@@ -161,7 +164,6 @@ I used [Google Fonts](https://fonts.google.com/)  for all text. For the headline
 #### CSS
 ![Css error checker](documentation/css-checker.png)
 
-#### No errors were returned when passing through the official [W3C validator](https://validator.w3.org/) for the html. No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/validator.html.en) validator for css.
 ---
 ## Accessibility and performance scores
 I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to get approval that the site is performing well and that it is accessible.

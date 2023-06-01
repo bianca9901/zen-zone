@@ -15,36 +15,36 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ## User Stories
 
 
-### First-Time Visitor Goals:
+### **First-Time Visitor Goals:**
 
-* As a first-time visitor my goal is to find out what this yoga studio is about so that I can learn more.
-*(who) Website is organized in a way that first-time visitors directly can see a description of who we are.*
+ **As a first-time visitor my goal is to find out what this yoga studio is about so that I can learn more.**
+- (Who) Website is organized in a way that first-time visitors directly can see a description of who we are.
 
-* As a first-time visitor my goal is to find out where the yoga studio is located so that I can find the place.
-*(where) First-time visitors should be able to find our location immediately since this is a local yoga studio. Therefore the location is provided in the header.*
+**As a first-time visitor my goal is to find out where the yoga studio is located so that I can find the place.**
+- (Where) First-time visitors should be able to find our location immediately since this is a local yoga studio. Therefore the location is provided in the header on the landing page and also in the footer.
 
-* As a first-time visitor my goal is to find out what classes are provided so that I can decide if it suits my needs.
-*(what) First-time visitors would want to know what classes we have in the studio. Therefore this information is provided directly after the header.*
+**As a first-time visitor my goal is to find out what classes are provided so that I can decide if it suits my needs.**
+- (What) First-time visitors would want to know what classes we have in the studio. Therefore this information is provided directly after the header.
 
-### Returning Visitor Goals:
+### **Returning Visitor Goals:**
 
-* As a returning visitor my goal is to contact the studio so that I can ask further questions.
-*(contact) First-time visitors may have further questions, therefore the contact information is in the navigation bar.*
+**As a returning visitor my goal is to contact the studio so that I can ask further questions.**
+- (Contact) a returning visitor may have further questions, therefore the contact information is in the navigation bar and the footer.
 
-* As a returning visitor my goal is to see the schedule so that I can book a class.
-*(when) A visitor that returns to the site may want to see the schedule for the classes. Therefore it has a link provided in the navigation so that the visitor easily can find the schedule of the week.* 
+**As a returning visitor my goal is to see the schedule so that I can book a class.**
+- (When) A visitor that returns to the site may want general information about class schedule offered in the studio. Therefore, it has a link provided in the navigation so that the visitor easily can get a overview.
 
-* As a returning visitor my goal is to find the studios' social media so that I can follow and interact with them.
-*(interaction) A visitor that returns may want to follow and interact with us on social media to see more.*
+**As a returning visitor my goal is to find the studios' social media so that I can follow and interact with them.**
+- (Interaction) A visitor that returns may want to follow and interact with the studio on social media to see more, for this reason icons are presented in footer.
 
-### Frequent Visitor Goals:
+### **Frequent Visitor Goals:**
 
 
-* As a frequent visitor my goal is to see this week’s schedule so that I can book a class.
-*(When) A frequent visitor may want to see the schedule for the week to book their spot.*
+**As a frequent visitor my goal is to see this week’s schedule so that I can book a class.**
+- (When) A frequent visitor may want to see the studios' schedule for the week to adjust their personal schedule accordingly.
 
-* As a frequent visitor my goal is to learn more about the memberships so that I can get a better deal.
-*(Prices) Frequent visitors may be interested in getting a membership and potentially purchasing.*
+**As a frequent visitor my goal is to learn more about the memberships so that I can get a better deal.**
+- (Prices) Frequent visitors may be interested in getting a membership and potentially purchase.
 
 ---
 
@@ -57,12 +57,13 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 ![Navigation](documentation/navigation.png)
 
 ### Landing page
-* The landing page image: The image gives a feel of our yoga studio and the text gives the visitor an impression of who and where we are.
-* The intention of the text selected for the landing page is to intrigue the visitor to want to learn more. The image selected intends to give a sense of tranquilness which matches the core of the company and the goal of the visitor wanting to take a class in yoga and wellness. 
+* The landing page displays the logo, navigation, a text about the studio and an image. This gives the visitor information about who and where we are.
+* The intention of the text selected for the landing page is to intrigue the visitor to want to learn more.
+* The image selected intends to give the visitor a visual presentation of the studio.
 ![Landing page](documentation/landing-page.png)
 
 ### Class selection section
-* This section is meant to describe the different classes so that the visitor can know our selections.  The information should spark interest in the visitors and make them know what class they want to take.
+* This section is meant to describe the different classes the studio provides.
 ![Class selection section](documentation/class-selection-section.png)
 
 ###  Schedule section
@@ -121,7 +122,7 @@ was used to write my code after half the time on this project since codeanywhere
 ## Design
 
 * The website has a simplistic modern feel with the main colors black and white. 
-* A few elements are green and those are the button in the contact-us form. and also the social media icons and the menu options, but those are only green while hovering. 
+* A few elements are green and those are the button in the contact-us form, and also the social media icons and the menu options, but those are only green while hovering. 
 
 ![Color Black](documentation/color-black.png)
 ![Color White](documentation/color-white.png)
@@ -203,7 +204,7 @@ There was a bug with the position of the footer in the contact page, it was fixe
 
 
 ### Unsolved bugs
-None
+None.
 
 ### Mistakes
 In the beggining of the project I commited messengers that
@@ -212,14 +213,28 @@ did not have an uppercase letter and they were also too long. When I realized th
 --- 
 ## Deployment
 
-* The site was deployed to GitHub pages. The steps to deploy are as follows:
+I cloned my ongoing codeanywhere repository that was deployed on GitHub. Meaning I copied the GitHub URL link and used these command’s,
+```
+cd ~/Desktop     -  redirect you to your desktop
+cd ciprojects     - redirect you to your folder with the projects
+git clone https://github.com/bianca9901/zen-zone.git     - clone your repository
+open -a "Visual Studio Code" zen-zone     - open your project in vs code
+```
+I finished my project in vscode then saved my files then used these commands
+```
+git add
+git commit
+git push
+```
+
+And then I deployed the site to GitHub pages.
+
+* The steps to deploy are as follows:
 
 * In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 
-* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-ADD DEPLOY PROCESS LOCAL
+* Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ---
 

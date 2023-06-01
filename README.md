@@ -98,6 +98,10 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 * Images that support and complement the description of the different classes. So that the visitor can get a visual understanding as well. 
 
 * A dropdown menu so that visitors on smaller screens get a better user experience.
+
+* Add favicon
+
+* Add custom 404 page
 ---
 
 ## Technologies used
@@ -222,15 +226,8 @@ cd ciprojects     - redirect you to your folder with the projects
 git clone https://github.com/bianca9901/zen-zone.git     - clone your repository
 open -a "Visual Studio Code" zen-zone     - open your project in vs code
 ```
-I finished my project in vscode then saved my files then used these commands
-```
-git add
-git commit
-git push
-```
 
-And then I deployed the site to GitHub pages.
-
+The site was deployed to GitHub pages.
 * The steps to deploy are as follows:
 
 * In the GitHub repository, navigate to the Settings tab
@@ -238,6 +235,10 @@ From the source section drop-down menu, select the Master Branch
 
 * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
+---
+
+## Future improvements
+* As mentioned earlier, I did not write my commit messengers correctly in the beggining of the project. However, I will take my time to read about how to write better commit messengers and I will improve them in the future. 
 ---
 
 ## Credits

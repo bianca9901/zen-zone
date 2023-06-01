@@ -95,9 +95,9 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
 * A dropdown menu so that visitors on smaller screens get a better user experience.
 
-* Add favicon
+* A favicon
 
-* Add custom 404 page
+* A custom 404 page
 
 ---
 
@@ -168,6 +168,7 @@ I used [Google Fonts](https://fonts.google.com/)  for all text. For the headline
 ![Css error checker](documentation/css-checker.png)
 
 ---
+
 ## Accessibility and performance scores
 I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to get approval that the site is performing well and that it is accessible.
 
@@ -177,6 +178,8 @@ I used [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to g
 * Contact us page ![Contact-us page](documentation/contact-us-score-page.png)
 
 * Response page ![Respons page](documentation/response-page-scores.png)
+
+---
 
 ### Manual testing
 

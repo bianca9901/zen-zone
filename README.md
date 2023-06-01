@@ -68,7 +68,7 @@ The site can be accessed by this [link](https://bianca9901.github.io/zen-zone/)
 
 ###  Schedule section
 * This section shows the visitor the schedule of the week.
-![Schedule section](documentation/schedule-section.png)
+![Schedule section](documentation/schedule-of-the-week.png)
 
 ### Membership selection section
 * Is meant to give the visitor information about the different prices and membership plans. It also includes rules for cancelation of membership etc. 
